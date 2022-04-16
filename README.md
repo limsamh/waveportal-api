@@ -1,4 +1,4 @@
-# my-wave-portal
+# waveportal-api
 
 A Basic Sample Project with Hardhat
 
